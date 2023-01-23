@@ -17,8 +17,8 @@
   - Разрабатывал основываясь на имеющемся опыте разработки похожих по наполнению ТГ-ботов
 
 
-
 ## **Я владею**:
+
 - Python<br>
   - Data-Structures
   - OOP
@@ -48,4 +48,10 @@
   - Debian11
   - Ubuntu
 
+
+
+### **Контакты**:
+  - <https://t.me/stegadp>
+  - <stegailodp@gmail.com>
+  - <https://vk.com/stegadp>
 
