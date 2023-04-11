@@ -49,7 +49,12 @@
 - Linux
   - Debian11
   - Ubuntu
-
+- TelegramAPI's
+  - Aiogram
+  - python-telegram-bot
+  - Pyrogram
+  - Telethon
+  
 
 
 ### **Контакты**:
