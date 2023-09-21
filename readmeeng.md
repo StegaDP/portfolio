@@ -2,7 +2,7 @@
 ## Me, my skills, and projects
 
 
-### My name is **Stegailo Dmitry**, and I develop software using Python.
+### My name is **Stegailo Dmitrii**, and I develop software using Python.
 
 
 ## **Examples:**
