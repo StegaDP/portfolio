@@ -25,7 +25,13 @@
 - Реализовал платежный модуль оплат АльфаБанка с использованием СБП, модуль для одностадийных оплат Tinkoff
 
 
+
+*Тут только проекты, которые мне самому нравятся, на самом деле мое портфолио в 3 раза более объемное
+
+
+
 ## **Я владею**:
+
 
 - Python<br>
   - Data-Structures
@@ -33,33 +39,74 @@
   - Basic Programming Algorithms
   - Computer Science
   - Math Logics
+
+- Rust<br>
+  - Algorithms
+  - console apps
+  - server apps
+
+- TelegramAPI's
+  - Aiogram
+  - python-telegram-bot
+  - Pyrogram
+  - Telethon
+
+
+
+- REST APIs
+  - Flask (+gunicorn)
+  - FastAPI (+uvicorn)
+  - Express.JS
+- Clouds
+  - AWS - (EC2)
+  - MongoDB - Atlas, self-hosted
+  - NetData server monitoring
+  - PostgresSQL - self-hosted
+
+
+
 - Python-Asyncs
   - aiogram
   - aiohttp
   - httpx.AsyncClient
+
 - DataBase<br>
   - SQLITE
+  - MongoDB
+  - PostgreSQL
+  - MySQL
+  - небольшой опыт работы с Microsoft Access :)
+
 - Настройка платежных операций через<br>
   - Qiwi API<br> 
   - YooKassa API<br>
+  - Эквайринг АльфаБанка
+  - Эквайринг Тинькофф
+  - Эквайринг CloudPayments
+  - Stripe
+  - PayPal
+  - Криптовалюты, в том числе через API, частично на уровне протоколов
+
 - Работа с финансовыми показателями через 
   - Tinkoff-Invest API 
   - yfinance
   - MOEXAPI
+  - Binance API
+  - Bybit API
+  - TradingView - PineScript
+
 - Разработка синхронных/асинхронных парсеров
   - BeautifulSoup4
   - Selenium
   - С выгрузкой данных в
     - CSV/EXCEL
     - JSON
-- Linux
-  - Debian11
-  - Ubuntu
-- TelegramAPI's
-  - Aiogram
-  - python-telegram-bot
-  - Pyrogram
-  - Telethon
+
+- OS
+  - Debian10 | Debian 11 | Debian 12
+  - Ubuntu 22.04 | 20.04
+  - Windows Server 2012 | 2016 | 2022
+
   
 
 
